@@ -1,21 +1,16 @@
 # Python 3 Network Packet Sniffer
 
-![Python Version](https://img.shields.io/badge/python-3.8+-blue?style=for-the-badge&logo=python)
+![C++ Version](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![OS](https://img.shields.io/badge/OS-GNU%2FLinux-red?style=for-the-badge&logo=linux)
-[![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/EONRaider/Packet-Sniffer?label=CodeFactor&logo=codefactor&style=for-the-badge)](https://www.codefactor.io/repository/github/eonraider/packet-sniffer)
-[![License](https://img.shields.io/github/license/EONRaider/Packet-Sniffer?style=for-the-badge)](https://github.com/EONRaider/Packet-Sniffer/blob/master/LICENSE)
+[![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/musediqolamilekan/packet-sniffer?label=CodeFactor&logo=codefactor&style=for-the-badge)](https://www.codefactor.io/repository/github/musediqolamilekan/packet-sniffer)
+[![License](https://img.shields.io/github/license/musediqolamilekan/packet-sniffer?style=for-the-badge)](https://github.com/musediqolamilekan/packet-sniffer/blob/main/LICENSE)
 
-[![Reddit](https://img.shields.io/badge/Reddit-EONRaider-FF4500?style=flat-square&logo=reddit)](https://www.reddit.com/user/eonraider)
-[![Discord](https://img.shields.io/badge/Discord-EONRaider-7289DA?style=flat-square&logo=discord)](https://discord.gg/KVjWBptv)
-[![Twitter](https://img.shields.io/badge/Twitter-eon__raider-38A1F3?style=flat-square&logo=twitter)](https://twitter.com/intent/follow?screen_name=eon_raider)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/olamilekan-musediq-a2b10b234)
 
-A Network Packet Sniffer developed in Python 3. Packets are disassembled
+
+A Network Packet Sniffer developed in C++. Packets are disassembled
 as they arrive at a given network interface controller and their information
 is displayed on the screen.
-
-This application depends exclusively on the [NETProtocols](https://github.com/EONRaider/NETProtocols) 
-library (also developed and maintained by [EONRaider](https://github.com/EONRaider)) 
-from version 2.0.0 and above and can be run by any Python 3.8+ interpreter.
 
 ## Demo
 ![sniffer_demo](https://user-images.githubusercontent.com/15611424/178045423-067df4ec-1853-400e-9b5a-10154cb6fcc1.gif)
